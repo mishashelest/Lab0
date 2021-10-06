@@ -169,3 +169,4 @@ public class Lab_0_Variant26 {
         System.out.println(min  + "   " + number);
     }
 }
+///sdfsdsddssds
